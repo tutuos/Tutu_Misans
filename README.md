@@ -5,7 +5,8 @@
 <Strong>注：🤣Misans商业可用<Strong>
 
 # 快速开始
-@font-face {
+eg:
+`@font-face {
 font-family: 'tutu';
 src: url('https://cdn.jsdelivr.net/gh/huiyio/Lib/fonts/AdobeCleanHanSC/AdobeCleanHanSC.eot');
 src:
@@ -20,6 +21,7 @@ font-display: swap;
 }
 *:not([class*="icon"]):not(i) {
 font-family: "tutu" !important;
-}
+} `
+`self.view.backgroundColor = [UIColor colorForHex:@"6FBF5E"];`
 
 基本上懒人操作，复制到css样式中放着就ok了。
