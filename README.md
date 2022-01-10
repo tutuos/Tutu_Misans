@@ -1,5 +1,5 @@
 # Tutu_Misans
-应用于WordPress自定义字体，可加入样式css使用。
+应用于WordPress/HTML/PHP自定义字体，可加入样式css使用。
 仓库地址：https://cdn.jsdelivr.net/gh/tutuos/Tutu_Misans/tutufont.你要的后缀
 
 <Strong>注：🤣Misans商业可用<Strong>
