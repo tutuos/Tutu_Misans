@@ -4,7 +4,7 @@
 
 <Strong>注：🤣Misans商业可用<Strong>
 
-# 例示
+# 快速开始
 @font-face {
 font-family: 'tutu';
 src: url('https://cdn.jsdelivr.net/gh/huiyio/Lib/fonts/AdobeCleanHanSC/AdobeCleanHanSC.eot');
